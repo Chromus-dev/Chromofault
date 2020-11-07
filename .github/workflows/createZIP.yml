@@ -1,2 +1,2 @@
-- name: Zip Release
-  uses: TheDoctor0/zip-release@0.4.1
+name: Zip Release
+uses: TheDoctor0/zip-release@0.4.1
