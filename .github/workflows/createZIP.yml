@@ -1,6 +1,3 @@
 name: Create Zip
 uses: montudor/action-zip@v0.1.0
-on:push
-with:
-  args: zip -qq -r dir.zip /pack
-  on: push
+on: push
