@@ -1,6 +1,7 @@
 name: Zip Release
 uses: TheDoctor0/zip-release@0.4.1
-on: push
+on:push
 - uses: montudor/action-zip@v0.1.0
   with:
     args: zip -qq -r dir.zip /pack
+    on: push
