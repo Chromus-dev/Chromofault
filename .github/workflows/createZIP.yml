@@ -1,3 +1,7 @@
 name: Create Zip
 uses: montudor/action-zip@v0.1.0
 on: push
+jobs:
+  - uses: montudor/action-zip@v0.1.0
+  with:
+    args: zip -qq -r dir.zip pack  
