@@ -1,7 +1,6 @@
-name: Zip Release
-uses: TheDoctor0/zip-release@0.4.1
+name: Create Zip
+uses: montudor/action-zip@v0.1.0
 on:push
-- uses: montudor/action-zip@v0.1.0
   with:
     args: zip -qq -r dir.zip /pack
     on: push
