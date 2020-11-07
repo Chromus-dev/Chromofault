@@ -8,5 +8,7 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'release.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
+        filename: '!§bChromofault §3[§b1.8.9§3].zip'
+        exclusions: '*.git* *.github*'
+        type: .zip
+        
