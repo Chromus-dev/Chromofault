@@ -1,8 +1,3 @@
-name: Create Zip
-on: push
-jobs:
-  name: "Make Zip
-  runs-on: ubuntu-latest
-  uses: montudor/action-zip@v0.1.0
+- uses: montudor/action-zip@v0.1.0
   with:
     args: zip -qq -r dir.zip pack
