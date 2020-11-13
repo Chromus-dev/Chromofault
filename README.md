@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <a href="https://github.com/Chromus-dev/Chromofault/releases/latest"><img src="https://raw.githubusercontent.com/FaithfulTweaks/FaithfulTweaks/master/website/static/images/logo.png" alt="Chromus" width="150"></a>
+    <a href="https://github.com/Chromus-dev/Chromofault/releases/latest"><img src="https://raw.githubusercontent.com/Chromus-dev/Chromofault/master/chromus.png" alt="Chromus" width="150"></a>
     <br>
     Chromofault
     <br>
