@@ -14,15 +14,8 @@
 <h2 align="center">Credits</h2>
 <br>
 
-⚠ **NOTE** We try to give credit to those that created the textures but we're not great at keeping track. If you believe some textures are yours please contact us and we'll add you to this list (or take your textures down upon request).
-- [Banakin](https://banakin.github.io): Making the website and various tweaks
-- Doge: FullyAgedCropMarker and AlternateBlockDestruction
-- [The Faithful Team](https://faithful.team/): Making the Faithful Texture Pack
-- [Nekzuris](https://twitter.com/Nekzuris): ColoredPing
-- Pomik108: RainbowXPBar
-- Redcoke26: MelonHunger
-- Seirin-Blu: Unobtrusive Rain, Unobtrusive Water
-- TheRandomGamerTRG: Making the information site and various tweaks
-- [Stridey](https://www.planetminecraft.com/member/stridey/): LowShield
-- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/): Inspiration
-- [jogurciQ](https://www.planetminecraft.com/member/jogurciq/): Dark UI textures
+**NOTE** I try to give credit to those that created the textures but I'm not great at keeping track. If you believe some textures are yours please contact me and I'll add you to this list (or remove your textures upon request).
+- [Jappa](https://twitter.com/JasperBoerstra): Base textures
+- [StormDragon77](https://www.planetminecraft.com/member/stormdragon77): Better bedrock, Better Blaze, Better Creeper, various textures from [Fixed Iconsistencies](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
+- [Kemiu](https://www.planetminecraft.com/member/kemiu/): Better Dirt
+- [Daggsy](https://www.planetminecraft.com/member/daggsy): Hot Lava Bucket
