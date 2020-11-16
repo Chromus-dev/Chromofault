@@ -19,3 +19,4 @@
 - [StormDragon77](https://www.planetminecraft.com/member/stormdragon77): Better bedrock, Better Blaze, Better Creeper, various textures from [Fixed Iconsistencies](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
 - [Kemiu](https://www.planetminecraft.com/member/kemiu/): Better Dirt
 - [Daggsy](https://www.planetminecraft.com/member/daggsy): Hot Lava Bucket
+- [Tamu](https://sites.google.com/view/tamuvt/home): Better Flint and Steel
