@@ -10,6 +10,7 @@
 
 <h2 align="center">Previews</h2>
 <br>
+![Preview](https://octodex.github.com/images/yaktocat.png)
 
 <h2 align="center">Credits</h2>
 <br>
