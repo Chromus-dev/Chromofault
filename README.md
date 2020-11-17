@@ -7,13 +7,11 @@
 </h1>
 
 <p align="center">A clean default edit for minecraft by <a href="http://www.chromus.tk" target="_blank">Chromus</a>.</p>
-
-<h2 align="center">Previews</h2>
-<br>
 <img src="preview.png" style="float: center;"/>
 
 <h2 align="center">Credits</h2>
 <br>
+
 **NOTE** I try to give credit to those that created the textures but I'm not great at keeping track. If you believe some textures are yours please contact me and I'll add you to this list (or remove your textures upon request).
 
 - [Jappa](https://twitter.com/JasperBoerstra): Base textures
