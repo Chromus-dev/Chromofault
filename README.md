@@ -10,7 +10,7 @@
 
 <h2 align="center">Previews</h2>
 <br>
-![Preview](https://github.com/Chromus-dev/Chromofault/blob/master/preview.png)
+<img src="preview.png" style="float: center;"/>
 
 <h2 align="center">Credits</h2>
 <br>
