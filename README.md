@@ -6,7 +6,7 @@
     <br>
 </h1>
 
-<p align="center">A clean default edit for minecraft by <a href="http://www.chromus.tk" target="_blank">Chromus</a>.</p>
+<p align="center">A clean default edit for minecraft by <a href="https://www.chromus.tk" target="_blank">Chromus</a>.</p>
 <img src="preview.png" style="float: center;"/>
 
 <h2 align="center">Credits</h2>
@@ -16,6 +16,14 @@
 
 - [Jappa](https://twitter.com/JasperBoerstra): Base textures
 - [StormDragon77](https://www.planetminecraft.com/member/stormdragon77): Better bedrock, Better Blaze, Better Creeper, various textures from [Fixed Iconsistencies](https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/)
-- [Kemiu](https://www.planetminecraft.com/member/kemiu/): Better Dirt
 - [Daggsy](https://www.planetminecraft.com/member/daggsy): Hot Lava Bucket
 - [Tamu](https://sites.google.com/view/tamuvt/home): Better Flint and Steel, Better Ores (Modified)
+- [Keno](https://twitter.com/kenopacks): Sky
+
+<h2 align="center">Planned Features</h2>
+<br>
+
+<h2 align="center">Addons</h2>
+<br>
+
+- [Christmas](https://github.com/Chromus-dev/Chromofault/releases/tag/v1.0-christmasAddon)

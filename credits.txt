@@ -2,6 +2,6 @@
  I try to give credit to those that created the textures but I'm not great at keeping track. If you believe some textures are yours please contact me and I'll add you to this list (or remove your textures upon request).
 - Jappa (https://twitter.com/JasperBoerstra): Base textures
 - StormDragon77 (https://www.planetminecraft.com/member/stormdragon77): Better bedrock, Better Blaze, Better Creeper, various textures from Fixed Iconsistencies
-- Kemiu (https://www.planetminecraft.com/member/kemiu/): Better Dirt
 - Daggsy (https://www.planetminecraft.com/member/daggsy): Hot Lava Bucket
 - Tamu (https://sites.google.com/view/tamuvt/home): Better Flint and Steel, Better Ores (Modified)
+- Keno (https://twitter.com/kenopacks): Sky
